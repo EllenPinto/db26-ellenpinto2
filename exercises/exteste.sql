@@ -1,3 +1,9 @@
+-- Aluno: Ellen Pinto
+-- Numero: a22604505
+-- Turma: 2
+-- Horário: 9h30-11h30
+-- Caso de estudo: Reservas de alojamento
+
 CREATE SCHEMA a22604505;
 GO
 
